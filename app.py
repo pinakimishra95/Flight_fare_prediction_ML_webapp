@@ -1,3 +1,5 @@
+##this is the init app developed by Pinaki Mishra using flask .
+
 from flask import Flask, request, render_template
 from flask_cors import cross_origin
 import sklearn
